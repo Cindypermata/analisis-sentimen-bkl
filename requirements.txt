@@ -10,3 +10,5 @@ seaborn
 altair
 joblib
 streamlit-option-menu
+wordcloud
+pillow
