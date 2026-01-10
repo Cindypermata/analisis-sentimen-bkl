@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+scikit-learn
+rapidfuzz
+nltk
+Sastrawi
+matplotlib
+seaborn
+altair
+joblib
+streamlit-option-menu
