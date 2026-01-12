@@ -208,8 +208,8 @@ with st.sidebar:
             "Hasil DLD",
             "Fitur N-Gram",
             "Matriks TF-IDF",
-            "Uji Coba N-Gram",
-            "Uji Coba Kombinasi N-Gram",
+            "Uji Coba N-Gram Tunggal",
+            "Uji Coba Rentang N-Gram",
             "Perbandingan Penggunaan DLD",
         ],
         icons=[
@@ -1139,12 +1139,12 @@ elif menu == "Matriks TF-IDF":
 
 
 # =====================================================
-# UJI N-GRAM – PER ASPEK & PER FOLD
+# UJI N-GRAM Tunggal– PER ASPEK & PER FOLD
 # =====================================================
-elif menu == "Uji Coba N-Gram":
+elif menu == "Uji Coba N-Gram Tunggal":
 
-    st.title("📊 Uji Coba N-Gram")
-    st.caption("Evaluasi model SVM per aspek, per fold, dan jenis N-Gram")
+    st.title("📊 Uji Coba N-Gram Tunggal")
+    st.caption("Hasil Evaluasi model SVM per aspek, per fold, dan satu jenis N-Gram")
 
     BASE_DIR = "visualisasi"
 
@@ -1255,12 +1255,12 @@ elif menu == "Uji Coba N-Gram":
 
 
 # =====================================================
-# UJI KOMBINASI N-GRAM – PER ASPEK & PER FOLD
+# UJI Rentang N-GRAM – PER ASPEK & PER FOLD
 # =====================================================
-elif menu == "Uji Coba Kombinasi N-Gram":
+elif menu == "Uji Coba Rentang N-Gram":
 
-    st.title("📊 Uji Coba Kombinasi N-Gram")
-    st.caption("Evaluasi model SVM kombinasi N-Gram per aspek dan per fold")
+    st.title("📊 Uji Coba Rentang N-Gram")
+    st.caption("Hasil Evaluasi model SVM Rentang N-Gram per aspek dan per fold")
 
     BASE_DIR = "visualisasi"
 
