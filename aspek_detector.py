@@ -1,24 +1,16 @@
 # KEYWORDS ASPEK
 aspek_keywords = {
     "Daya Tarik": [
-        "pantai", "laut", "ombak", "pasir", "pemandangan",
-        "sunset", "sunrise", "foto", "spot", "indah",
-        "bagus", "bersih"
+        "pantai", "laut", "ombak", "pasir", "pemandangan", "sunset", "sunrise", "foto", "spot", "indah", "bagus", "bersih", "keren", "cantik", "luas", "asri", "ramai", "alami"
     ],
     "Aksesibilitas": [
-        "jalan", "akses", "rute", "lokasi", "arah",
-        "dekat", "jauh", "mudah", "sulit", "macet",
-        "berlubang", "aspal"
+        "jalan", "akses", "rute", "lokasi", "arah", "dekat", "jauh", "mudah", "sulit", "macet", "berlubang", "aspal", "motor", "mobil", "maps"
     ],
     "Amenitas": [
-        "toilet", "wc", "warung", "gazebo",
-        "makan", "minum", "penginapan",
-        "musholla", "sampah", "meja", "kursi", "parkir"
+        "toilet", "wc", "warung", "gazebo", "makan", "minum", "penginapan", "musholla", "sampah", "meja", "kursi", "parkir", "kafe"
     ],
     "Pelayanan Tambahan": [
-        "petugas", "penjaga", "pengelola", "sewa",
-        "fotografer", "tiket", "satpam",
-        "keamanan", "kasir"
+        "petugas", "penjaga", "pengelola", "sewa", "fotografer", "tiket", "satpam", "keamanan", "kasir"
     ]
 }
 
